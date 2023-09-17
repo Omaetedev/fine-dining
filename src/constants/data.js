@@ -21,6 +21,7 @@ const wines = [
     price: '$31',
     tags: 'CA | 750 ml',
   },
+
   {
     title: 'Irish Guinness',
     price: '$26',
@@ -79,4 +80,5 @@ const awards = [
   },
 ];
 
+// eslint-disable-next-line
 export default { wines, cocktails, awards };
